@@ -7,3 +7,4 @@ if a in d:
     print("Calories:",d[a])
 elif a not in d:   #or else:
     pass
+#an unnecessary note
